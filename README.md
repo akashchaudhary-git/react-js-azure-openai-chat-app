@@ -30,6 +30,10 @@ This template provides a starting point for building a chat application that int
    npm run dev
    ```
 
+## Live Demo
+
+Check out the live demo at https://react-js-aoi.onrender.com/.
+
 ## Integration with Azure OpenAI
 
 To integrate the app with your Azure OpenAI resource:
