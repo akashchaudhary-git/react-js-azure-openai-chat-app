@@ -7,6 +7,8 @@ This template provides a starting point for building a chat application that int
 - **Chat with an AI Assistant:** Users can send and receive messages with an AI assistant.
 - **Customizable API Settings:** Users can configure their Azure OpenAI API details using the "Settings" popup.
 
+![Alt text](image.png)
+
 ## Getting Started
 
 1. **Clone the Repository:**
